@@ -28,7 +28,6 @@ const Login = () => {
               console.error('Error:', error);
           })  
       }
-  // mkjkljkll
   
   return (
     <div className="form-content-right">
